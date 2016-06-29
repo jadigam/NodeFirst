@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shravan",
+  "license": "ISC",
+  "dependencies": {
+    "Q": "0.0.1",
+    "angularjs": "0.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "jshint": "^2.9.2",
+    "jsonwebtoken": "^7.0.0",
+    "mongoose": "^4.5.2",
+    "morgan": "^1.7.0",
+    "mssql": "^3.3.0",
+    "nodemon": "^1.9.2"
+  }
+}
